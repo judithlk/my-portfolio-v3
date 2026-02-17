@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div
       id="about"
-      className="snap-start min-h-screen md:h-screen w-full bg-background flex items-center border-y border-border py-[10%] md:py-0"
+      className="snap-start scroll-mt-10 min-h-screen w-full bg-background flex items-center border-y border-border py-[10%] md:py-0"
     >
       <div className="w-[80%] pl-[10%] flex flex-col space-y-16">
         <div className="space-y-8">

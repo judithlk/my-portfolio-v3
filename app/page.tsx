@@ -9,7 +9,7 @@ export default function Home() {
    <main id="scroll-root" className="h-screen overflow-y-auto
     snap-y snap-mandatory
     scroll-smooth
-    no-scrollbar scroll-pt-16">
+    no-scrollbar scroll-pt-10">
       <Hero />
       <About />
       <Experience />

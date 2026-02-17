@@ -6,7 +6,7 @@ export default function Experience() {
   return (
     <div
       id="experience"
-      className="snap-start min-h-screen w-full bg-background flex items-center justify-end py-[10%]"
+      className="snap-start scroll-mt-10 min-h-screen w-full bg-background flex items-center justify-end py-[10%]"
     >
       <div className="w-[85%] pr-[6%] md:pr-[10%] flex flex-col items-end space-y-8">
         <h2 className="text-text text-4xl font-heading text-end">Experience</h2>

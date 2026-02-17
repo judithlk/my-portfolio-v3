@@ -5,7 +5,7 @@ export default function Contact() {
   return (
     <div
       id="contact"
-      className="snap-start min-h-screen md:h-screen w-full bg-background flex items-center justify-center border-y border-border py-[10%] md:py-0"
+      className="snap-start scroll-mt-10 min-h-screen md:h-screen w-full bg-background flex items-center justify-center border-y border-border py-[10%] md:py-0"
     >
       <div className="w-[85%] pr-[6%] md:pr-[10%] py-[5%] flex flex-col items-end space-y-8 border-b border-card">
         <h2 className="text-text text-4xl font-heading text-end">Contact</h2>

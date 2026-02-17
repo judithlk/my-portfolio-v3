@@ -7,7 +7,7 @@ export default function Projects() {
   return (
     <div
       id="projects"
-      className="snap-start min-h-screen w-full bg-background flex items-center justify-center border-y border-border py-[10%]"
+      className="snap-start scroll-mt-10 min-h-screen w-full bg-background flex items-center justify-center border-y border-border py-[10%]"
     >
       <div className="w-[80%] space-y-8">
         <h2 className="text-text text-4xl font-heading text-start pl-5">

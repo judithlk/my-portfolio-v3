@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Hero() {
   return (
-    <div id="hero" className="snap-start h-screen md:h-screen w-full bg-background flex items-center justify-end p-10 px-[10%] relative">
+    <div id="hero" className="snap-start scroll-mt-10 min-h-screen w-full bg-background flex items-center justify-end p-10 px-[10%] relative">
       <div className="absolute inset-0 flex items-center justify-center lg:justify-end lg:pr-[10%] pointer-events-none">
   <h1 className="text-[18vw] font-heading text-white/5 select-none">
     ENGINEER
