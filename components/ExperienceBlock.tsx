@@ -42,11 +42,7 @@ export default function ExperienceBlock({
         </div>
 
         <p className="text-sm text-justify font-body text-text-two break-all">
-          {description} Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Veniam nulla mollitia nostrum in porro nisi. Amet unde nihil, sequi at
-          esse dolorum vero vel illum facere, sapiente suscipit quod
-          consequatur.
-        </p>
+          {description} </p>
         <div className="flex flex-wrap space-x-2">
           {technologies.map((tech, index) => (
             <Label key={index} text={tech} />
